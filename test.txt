@@ -1,5 +1,0 @@
-salut 
-numarul 1
-2
-3
-si 4
